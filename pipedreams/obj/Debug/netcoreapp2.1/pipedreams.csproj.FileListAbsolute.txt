@@ -1,0 +1,11 @@
+/Users/bobs/Documents/code/pipedreams/bin/Debug/netcoreapp2.1/pipedreams.deps.json
+/Users/bobs/Documents/code/pipedreams/bin/Debug/netcoreapp2.1/pipedreams.runtimeconfig.json
+/Users/bobs/Documents/code/pipedreams/bin/Debug/netcoreapp2.1/pipedreams.runtimeconfig.dev.json
+/Users/bobs/Documents/code/pipedreams/bin/Debug/netcoreapp2.1/pipedreams.dll
+/Users/bobs/Documents/code/pipedreams/bin/Debug/netcoreapp2.1/pipedreams.pdb
+/Users/bobs/Documents/code/pipedreams/obj/Debug/netcoreapp2.1/pipedreams.csprojAssemblyReference.cache
+/Users/bobs/Documents/code/pipedreams/obj/Debug/netcoreapp2.1/pipedreams.csproj.CoreCompileInputs.cache
+/Users/bobs/Documents/code/pipedreams/obj/Debug/netcoreapp2.1/pipedreams.AssemblyInfoInputs.cache
+/Users/bobs/Documents/code/pipedreams/obj/Debug/netcoreapp2.1/pipedreams.AssemblyInfo.cs
+/Users/bobs/Documents/code/pipedreams/obj/Debug/netcoreapp2.1/pipedreams.dll
+/Users/bobs/Documents/code/pipedreams/obj/Debug/netcoreapp2.1/pipedreams.pdb
